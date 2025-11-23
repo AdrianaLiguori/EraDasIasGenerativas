@@ -26,7 +26,7 @@ Além do conteúdo em si, o eBook também representa uma ponte entre duas áreas
 
 O maior resultado, no fim, é proporcionar um material que apoie quem está navegando por esse novo cenário tecnológico, trazendo clareza, segurança e novas possibilidades.
 
-[📘 Clique aqui para baixar o eBook][(https://github.com/AdrianaLiguori/EraDasIasGenerativas/blob/main/Ebook%20-%20A%20Influ%C3%AAncia%20das%20IAs%20Generativas%20no%20Direito.pdf)]
+[📘 Clique aqui para baixar o eBook] (https://github.com/AdrianaLiguori/EraDasIasGenerativas/blob/main/Ebook%20-%20A%20Influ%C3%AAncia%20das%20IAs%20Generativas%20no%20Direito.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar um eBook “natty” com IA exige um equilíbrio delicado: usar a tecnologia para potencializar a escrita, mas sem perder a essência humana. No Direito, esse equilíbrio é ainda mais essencial — a IA apoia, acelera e expande, mas a interpretação jurídica continua sendo uma habilidade humana indispensável. A estética do projeto vem justamente dessa combinação harmoniosa.
